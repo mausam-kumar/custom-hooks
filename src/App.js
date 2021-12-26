@@ -1,8 +1,10 @@
 import Dashboard from './components/Dashboard.jsx'
+import TodoList from './components/useReducer/TodoList.jsx'
 function App() {
   return (
     <div>
-      <Dashboard />
+      {/* <Dashboard /> */}
+      <TodoList />
     </div>
   );
 }

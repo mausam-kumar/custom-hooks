@@ -1,0 +1,16 @@
+{
+  "post": [
+    {
+      "title": "Learn React-Redux",
+      "id": 1
+    },
+    {
+      "title": "Learn Redux-Thunk",
+      "id": "9edc115d-a8c3-4e68-b554-a64a43c45dc9"
+    },
+    {
+      "title": "Learn useReducer",
+      "id": "65578148-7874-4e29-b657-f9acfc83d742"
+    }
+  ]
+}
